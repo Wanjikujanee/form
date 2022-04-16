@@ -1,0 +1,65 @@
+
+#fname{
+    width: 180px; 
+    height: 30px;  
+    border:1px;  
+    border-radius: 1px;  
+    padding-left:-4px;
+    border-width: -120%;
+    border: radius 15px;
+    background-color:rgb(189,185,185) ;
+    
+}
+.full{
+    margin-left:40%;
+}
+#uname{
+    width: 180px; 
+    height: 30px;  
+    border:1px;  
+    border-radius: 1px; 
+    background-color: rgb(189, 185, 185); 
+}
+.user{
+    margin-left: 13%;
+}
+.names{
+    display: flex;
+}
+#email{
+    width: 400px; 
+    height: 30px;  
+    border:1px; 
+    background-color: rgb(189, 185, 185);
+}
+.email{
+    margin-left:39.5%;
+}
+#pass{
+    width: 400px; 
+    height: 30px;  
+    border:1px; 
+    padding:0px 0px 0px 6px;
+    background-color: rgb(189, 185, 185);
+}
+.pass{
+    margin-left:39.5%;  
+    
+}
+
+#check{
+    margin-left: 40%;
+    }r
+ #create{
+     background-color:rgb(248,8,196) ;
+     color:aliceblue;
+     padding:
+ }
+         
+.create{ 
+    width:250px;      
+        padding: 15px; 
+        margin-left:32%;
+        width: 190%;
+        height: 20%;
+  

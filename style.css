@@ -1,0 +1,106 @@
+body{
+    background-image: linear-gradient(to right, rgba(175,133,53), rgb(238,182,238));
+}
+
+.container{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 3%;
+
+}
+.container>div{
+    margin: auto;
+
+}
+.box1{
+    background: rgb(245, 157, 41);
+    height: 500px;
+    width: 30%;
+    padding: 30px;
+    margin-left: 50%;
+
+
+}
+.box2{
+    background: white;
+    height: 500px;
+    width: 70%;
+    padding: 30px;
+    margin-right: 60%;
+}
+h1{
+    font-family: 'Updock', cursive;
+    color: rgb(151, 85, 9);
+}
+h2{
+    color: rgb(151, 85, 9);
+    
+}
+h3{
+    color: rgb(151, 85, 9);
+    padding-top: 10%;
+    font-size: small;
+
+ }
+ h4{
+    
+        text-align:right;
+        margin-right: -4%;
+      
+ }
+ h5{
+
+
+    margin-left:25.5%;
+    margin-top:10%;
+    font-size: larger;
+}
+h6{
+    padding: 10px 40px 10px 60px;
+    background-color: #425ca5;
+    border-radius:4px;
+    color:rgb(255,255, 255);
+    cursor: pointer;
+    margin-left: 12.5%;
+    position: fixed;
+    margin-top: -2%;
+
+}  
+.hr{
+    display: flex;
+    flex-direction:row;
+    padding: 0px 70px;
+    width:400px;
+    margin-left: 10%;
+    margin-top: 6%;
+    }
+    .fullname{
+        margin-left:1%;
+    }
+    #uname{
+        width: 180px; 
+        height: 30px;  
+        border:1px;  
+        border-radius: 1px; 
+        background-color: rgb(194, 188, 188); 
+    }
+ .username{
+     margin-left: 40%;
+     margin-top: -6%;
+     
+ }
+ 
+ .email address{
+    margin-left:36.5%;
+    width:400% ;
+    
+}
+pass{
+    margin-left:39.5%;  
+    border-width: 400px;
+ }
+
+
+
+   
